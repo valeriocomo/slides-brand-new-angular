@@ -1,0 +1,20 @@
+{
+  "name": "brand-new-angular",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev",
+    "dev:open": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.41.1",
+    "@slidev/theme-bricks": "^0.0.2",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-theme-dracula": "^0.2.0"
+  },
+  "devDependencies": {
+    "@iconify-json/skill-icons": "^1.1.2"
+  }
+}

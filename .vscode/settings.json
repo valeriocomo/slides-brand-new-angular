@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.markdownlint": false
+    },
+    "[markdown]": {
+        "editor.formatOnSave": false,
+        "editor.formatOnPaste": false
+    },
+}

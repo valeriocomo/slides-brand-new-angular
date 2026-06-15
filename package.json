@@ -7,6 +7,7 @@
     "dev:open": "slidev --open",
     "export": "slidev export"
   },
+  "version": "0.1.0",
   "dependencies": {
     "@slidev/cli": "^0.41.1",
     "@slidev/theme-bricks": "^0.0.2",

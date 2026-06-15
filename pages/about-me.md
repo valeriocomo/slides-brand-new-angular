@@ -9,7 +9,7 @@ class: text-center
 
 ## Valerio Como
 
-👨🏽‍💻 Senior Lead Developer @ Apuliasoft
+👨🏽‍💻 Contributor of design-angular-kit
 
 📝 Dev blog
 

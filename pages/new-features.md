@@ -36,5 +36,3 @@ class: text-center
 <img src="/enrico-mentana-nottata.gif" class="m-auto" />
 
 #maratonamentana
-
-#gdgdevfest2023
